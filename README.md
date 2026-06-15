@@ -22,7 +22,7 @@ Early in my career and trying to learn as much as I can. My favorite project so 
 
 ## Certifications
 
-[![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Certificate-blue)(https://www.credential.net/71142d4c-477b-4ac6-a4e9-4d0e1e3a921a#acc.oIgMw90D)
+[![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Certificate-blue)](https://www.credential.net/71142d4c-477b-4ac6-a4e9-4d0e1e3a921a#acc.oIgMw90D)
 
 ---
 
